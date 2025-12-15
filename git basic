@@ -1,0 +1,8 @@
+git config --global user.name "mention the username"
+git config --global user.email "mailid"
+git config --list : gives the details of username and email id
+git clone <--http link> : clones or replicates the repo(ex; in vscode terminal execute the command)
+git status
+git add <filename> : adds new or changed files in your working directory to the Git staging area
+git commit -m: It is the record of change
+git push origin main : upload local repo to remote repo
